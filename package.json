@@ -1,0 +1,31 @@
+{
+  "name": "arby",
+  "version": "1.0.0",
+  "description": "Collecting currencies historical and predictive datasets.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerdfiles/arby.git"
+  },
+  "keywords": [
+    "node.js",
+    "analytic-economics",
+    "model-theoretic-economics",
+    "infocology"
+  ],
+  "author": "nerdfiles <nerdfiles@gmail.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/nerdfiles/arby/issues"
+  },
+  "homepage": "https://github.com/nerdfiles/arby#readme",
+  "dependencies": {
+    "async": "^2.0.0-rc.3",
+    "btoa": "^1.1.2",
+    "docopt-js": "^1.0.1",
+    "request": "^2.72.0",
+    "sheetsu-node": "0.0.7"
+  }
+}
