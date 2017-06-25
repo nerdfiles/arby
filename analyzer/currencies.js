@@ -24,31 +24,38 @@ function Currencies(dataList) {
    * @name buy
    * @returns {undefined}
    */
-  function buy() {}
+  function buy() {
+  }
 
   /**
    * @name contextCall
    * @returns {undefined}
    */
-  function contextCall() {}
+  function contextCall() {
+  }
 
   /**
    * @name generateContextCall
    * @returns {undefined}
    */
-  function generateContextCall() {}
+  function generateContextCall() {
+  }
 
   /**
    * @name path
    * @returns {undefined}
    */
-  function path() {}
+  function path() {
+
+
+  }
 
   /**
    * @name init
    * @returns {undefined}
    */
-  function init() {}
+  function init() {
+  }
 
   /**
    * @name loadCurrencies

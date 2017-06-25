@@ -43,7 +43,7 @@ var init = function () {
         var btcusd = R.view(R.lensProp('btc_usd'), d.stats);
         var rows = [];
         var opp = {
-          "spread" : ''+( parseFloat(d.lower, 10) - parseFloat(d.upper, 10) ) - 100,
+          "spread" : ''+( parseFloat(d.lower) - parseFloat(d.upper) ) - 100,
           "grow"   : d.grow.join(' '),
           "btcusd" : btcusd
         };
