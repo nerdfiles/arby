@@ -1,0 +1,15 @@
+= Hypermedia talks to the DOM =
+
+    * A directive to make elements response to model changes.
+    * HTTP Verbs are NMV
+    * Arch is modular.
+    * (s[ea]rc[h]) flowers
+    * MOVE (Model Operations View Events): http://pandawhale.com/post/2915/mvc-is-dead-its-time-to-move-on
+    * VBHDM (View-based Hypermedia Descriptive Methods; @see 1999 Heeseok Lee, Jongho Kim and Young Gul Kim Korea Advanced Institute of Science and Technology, Korea)
+    * CSS vendors.
+    * Want to know what's up?: http://lcamtuf.coredump.cx/squirrel/ for Angular Directives, but an Accessibility and  Device model as decorations to the interaction model. Think Declarative Media Models again.
+
+== Navigation ==
+
+    * [[index]]
+    * [[angular-hyper]]

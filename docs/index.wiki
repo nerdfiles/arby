@@ -1,0 +1,8 @@
+= angular-hyper =
+
+A General-purpose Hypermedia Directive for AngularJS.
+
+== Navigation ==
+
+    * [[index]]
+    * [[angular-hyper]]

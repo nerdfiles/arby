@@ -2,6 +2,9 @@
 
 Hypermedia directives for bitcoin arbitrage
 
+1. if node N interacts with a node that isn't itself, who would it be based on
+model R?
+
 ##MVP
 
 1. Intra- and Inter-exchange arbitrage

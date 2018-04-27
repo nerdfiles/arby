@@ -1,0 +1,3360 @@
+{u'btc_cnh': Decimal('2122.84'),
+ u'btc_eur': Decimal('270.74106'),
+ u'btc_gbp': Decimal('224.28035'),
+ u'btc_rur': Decimal('15944.26841'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.1044'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.46'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.55'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00219'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.11'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.1'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.63'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.395'),
+ u'ltc_rur': Decimal('168.99941'),
+ u'ltc_usd': Decimal('3.56123'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70992'),
+ u'xpm_btc': Decimal('0.00042')}
+4.79354479848
+104.797544798
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Trade resolve...
+btc_usd
+{u'btc_cnh': Decimal('2122.89'),
+ u'btc_eur': Decimal('270.74134'),
+ u'btc_gbp': Decimal('224.28058'),
+ u'btc_rur': Decimal('15944.44788'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.1054'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.48'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54992'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00219'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.11'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.1'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.62'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.395'),
+ u'ltc_rur': Decimal('168.99936'),
+ u'ltc_usd': Decimal('3.559694'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70992'),
+ u'xpm_btc': Decimal('0.00042')}
+4.79107652304
+104.795076523
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2122.92'),
+ u'btc_eur': Decimal('270.74433'),
+ u'btc_gbp': Decimal('224.28104'),
+ u'btc_rur': Decimal('15946.68032'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.10641'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.48'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54992'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00219'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.11'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.1'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.55'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.395'),
+ u'ltc_rur': Decimal('168.99933'),
+ u'ltc_usd': Decimal('3.559692'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.759'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70992'),
+ u'xpm_btc': Decimal('0.00042')}
+4.78959561359
+104.793595614
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123'),
+ u'btc_eur': Decimal('270.74733'),
+ u'btc_gbp': Decimal('224.2815'),
+ u'btc_rur': Decimal('15947.95616'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.10742'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.5'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54992'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00219'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.11'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.1'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.46'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.395'),
+ u'ltc_rur': Decimal('168.99922'),
+ u'ltc_usd': Decimal('3.559686'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70984'),
+ u'xpm_btc': Decimal('0.00042')}
+4.78564672633
+104.789646726
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.02'),
+ u'btc_eur': Decimal('270.75004'),
+ u'btc_gbp': Decimal('224.28173'),
+ u'btc_rur': Decimal('15948.11565'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.10846'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.53'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54992'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00219'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.11'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.1'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.45'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.395'),
+ u'ltc_rur': Decimal('168.99911'),
+ u'ltc_usd': Decimal('3.559685'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70984'),
+ u'xpm_btc': Decimal('0.00042')}
+4.78465955102
+104.788659551
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.05'),
+ u'btc_eur': Decimal('270.75303'),
+ u'btc_gbp': Decimal('224.28219'),
+ u'btc_rur': Decimal('15949.23208'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.11048'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.5'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54992'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.11'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.1'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.45'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.395'),
+ u'ltc_rur': Decimal('168.99908'),
+ u'ltc_usd': Decimal('3.559682'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70992'),
+ u'xpm_btc': Decimal('0.00042')}
+4.78317882292
+104.787178823
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.1'),
+ u'btc_eur': Decimal('270.75331'),
+ u'btc_gbp': Decimal('219.34218'),
+ u'btc_rur': Decimal('15949.39159'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.11148'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.54'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54992'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.11'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.1'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.44'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.395'),
+ u'ltc_rur': Decimal('168.99903'),
+ u'ltc_usd': Decimal('3.559676'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70992'),
+ u'xpm_btc': Decimal('0.00042')}
+4.78071103575
+104.784711036
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.13'),
+ u'btc_eur': Decimal('270.75631'),
+ u'btc_gbp': Decimal('224.28288'),
+ u'btc_rur': Decimal('15949.87013'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.11248'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.55'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54992'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.11'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.1'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.43'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.395'),
+ u'ltc_rur': Decimal('168.999'),
+ u'ltc_usd': Decimal('3.55962'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70988'),
+ u'xpm_btc': Decimal('0.00042')}
+4.77923041924
+104.783230419
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.18'),
+ u'btc_eur': Decimal('270.75902'),
+ u'btc_gbp': Decimal('219.34518'),
+ u'btc_rur': Decimal('15950.02963'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.11249'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.55'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54992'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.685'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.11'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.1'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.42'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.395'),
+ u'ltc_rur': Decimal('168.99895'),
+ u'ltc_usd': Decimal('3.559428'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70984'),
+ u'xpm_btc': Decimal('0.00042')}
+4.77676281804
+104.780762818
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.21'),
+ u'btc_eur': Decimal('270.76201'),
+ u'btc_gbp': Decimal('219.34819'),
+ u'btc_rur': Decimal('15950.18916'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.11349'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.56'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54992'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.685'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.11'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.397'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.41'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.395'),
+ u'ltc_rur': Decimal('168.99892'),
+ u'ltc_usd': Decimal('3.557636'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.698'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70984'),
+ u'xpm_btc': Decimal('0.00042')}
+4.77435887642
+104.778358876
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.23'),
+ u'btc_eur': Decimal('270.76229'),
+ u'btc_gbp': Decimal('224.28357'),
+ u'btc_rur': Decimal('15950.18917'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.1135'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.45'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54992'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.685'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.11'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.41'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.395'),
+ u'ltc_rur': Decimal('168.9989'),
+ u'ltc_usd': Decimal('3.55917'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.698'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.759'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70992'),
+ u'xpm_btc': Decimal('0.00042')}
+4.77429533305
+104.778295333
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.29'),
+ u'btc_eur': Decimal('270.765'),
+ u'btc_gbp': Decimal('224.28403'),
+ u'btc_rur': Decimal('15950.3487'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.11354'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.45'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54992'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.685'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.11'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.4'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.395'),
+ u'ltc_rur': Decimal('168.99882'),
+ u'ltc_usd': Decimal('3.559166'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.698'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.757'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70992'),
+ u'xpm_btc': Decimal('0.00042')}
+4.77133450447
+104.775334504
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.31'),
+ u'btc_eur': Decimal('270.76528'),
+ u'btc_gbp': Decimal('224.28426'),
+ u'btc_rur': Decimal('15950.50822'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.11558'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.47'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54992'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.39'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.395'),
+ u'ltc_rur': Decimal('168.9988'),
+ u'ltc_usd': Decimal('3.559154'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.757'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.11'),
+ u'xpm_btc': Decimal('0.00042')}
+4.7703475988
+104.774347599
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.34'),
+ u'btc_eur': Decimal('270.76827'),
+ u'btc_gbp': Decimal('219.35419'),
+ u'btc_rur': Decimal('15951.62486'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.11452'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.53'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.63'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.387'),
+ u'ltc_rur': Decimal('168.99675'),
+ u'ltc_usd': Decimal('3.54992'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.757'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.7099'),
+ u'xpm_btc': Decimal('0.00042')}
+4.76886727514
+104.772867275
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.34'),
+ u'btc_eur': Decimal('270.76855'),
+ u'btc_gbp': Decimal('219.35519'),
+ u'btc_rur': Decimal('15951.78438'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.11452'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.53'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.62'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.387'),
+ u'ltc_rur': Decimal('168.99675'),
+ u'ltc_usd': Decimal('3.559137'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.757'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.7099'),
+ u'xpm_btc': Decimal('0.00042')}
+4.76886727514
+104.772867275
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.34'),
+ u'btc_eur': Decimal('270.77154'),
+ u'btc_gbp': Decimal('224.28518'),
+ u'btc_rur': Decimal('15951.94391'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.11453'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.53'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.62'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.387'),
+ u'ltc_rur': Decimal('168.99675'),
+ u'ltc_usd': Decimal('3.559137'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.757'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.7099'),
+ u'xpm_btc': Decimal('0.00042')}
+4.76886727514
+104.772867275
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.34'),
+ u'btc_eur': Decimal('270.77182'),
+ u'btc_gbp': Decimal('224.28541'),
+ u'btc_rur': Decimal('15951.78439'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.11453'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.54'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.62'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.386'),
+ u'ltc_rur': Decimal('168.99674'),
+ u'ltc_usd': Decimal('3.559137'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.757'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.7099'),
+ u'xpm_btc': Decimal('0.00042')}
+4.76886727514
+104.772867275
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.34'),
+ u'btc_eur': Decimal('270.77453'),
+ u'btc_gbp': Decimal('224.28587'),
+ u'btc_rur': Decimal('15951.94392'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.11454'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.54'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.62'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.385'),
+ u'ltc_rur': Decimal('168.99673'),
+ u'ltc_usd': Decimal('3.559137'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.757'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.7099'),
+ u'xpm_btc': Decimal('0.00042')}
+4.76886727514
+104.772867275
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.34'),
+ u'btc_eur': Decimal('270.77481'),
+ u'btc_gbp': Decimal('224.2861'),
+ u'btc_rur': Decimal('15951.94392'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.11554'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.54'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.62'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.386'),
+ u'ltc_rur': Decimal('168.99673'),
+ u'ltc_usd': Decimal('3.559137'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.757'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.7099'),
+ u'xpm_btc': Decimal('0.00042')}
+4.76886727514
+104.772867275
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.41'),
+ u'btc_eur': Decimal('270.7778'),
+ u'btc_gbp': Decimal('224.28656'),
+ u'btc_rur': Decimal('15952.10347'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.11555'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.49'),
+ u'ltc_cnh': Decimal('22.54'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.55'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.383'),
+ u'ltc_rur': Decimal('168.99568'),
+ u'ltc_usd': Decimal('3.559134'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70989'),
+ u'xpm_btc': Decimal('0.00042')}
+4.76541334928
+104.769413349
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.49'),
+ u'btc_eur': Decimal('270.77808'),
+ u'btc_gbp': Decimal('224.28679'),
+ u'btc_rur': Decimal('15953.53917'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.11557'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.49'),
+ u'ltc_cnh': Decimal('22.45'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.46'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.383'),
+ u'ltc_rur': Decimal('168.99561'),
+ u'ltc_usd': Decimal('3.559126'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70992'),
+ u'xpm_btc': Decimal('0.00042')}
+4.76146628428
+104.765466284
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.57'),
+ u'btc_eur': Decimal('270.78107'),
+ u'btc_gbp': Decimal('219.33754'),
+ u'btc_rur': Decimal('15953.85828'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('58.11661'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.49'),
+ u'ltc_cnh': Decimal('22.45'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.59'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.394'),
+ u'ltc_rur': Decimal('168.99549'),
+ u'ltc_usd': Decimal('3.55'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70992'),
+ u'xpm_btc': Decimal('0.00042')}
+4.75751951666
+104.761519517
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.65'),
+ u'btc_eur': Decimal('270.78135'),
+ u'btc_gbp': Decimal('219.3602'),
+ u'btc_rur': Decimal('15953.8583'),
+ u'btc_usd': Decimal('340.301'),
+ u'eur_rur': Decimal('58.11764'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.49'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.43'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.38'),
+ u'ltc_rur': Decimal('168.99543'),
+ u'ltc_usd': Decimal('3.559102'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.7089'),
+ u'xpm_btc': Decimal('0.00042')}
+4.75111105879
+104.755111059
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.73'),
+ u'btc_eur': Decimal('270.78434'),
+ u'btc_gbp': Decimal('224.28771'),
+ u'btc_rur': Decimal('15954.17742'),
+ u'btc_usd': Decimal('340.301'),
+ u'eur_rur': Decimal('58.11865'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.49'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5199'),
+ u'ltc_cnh': Decimal('23.59'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.376'),
+ u'ltc_rur': Decimal('168.99533'),
+ u'ltc_usd': Decimal('3.559098'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.759'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70788'),
+ u'xpm_btc': Decimal('0.00042')}
+4.7471649786
+104.751164979
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.75'),
+ u'btc_eur': Decimal('270.78462'),
+ u'btc_gbp': Decimal('224.28794'),
+ u'btc_rur': Decimal('15954.17744'),
+ u'btc_usd': Decimal('340.391'),
+ u'eur_rur': Decimal('58.11965'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.45'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.57'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.394'),
+ u'ltc_rur': Decimal('168.99525'),
+ u'ltc_usd': Decimal('3.559092'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70788'),
+ u'xpm_btc': Decimal('0.00042')}
+4.746178505
+104.750178505
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.75'),
+ u'btc_eur': Decimal('270.78408'),
+ u'btc_gbp': Decimal('224.28817'),
+ u'btc_rur': Decimal('15954.33702'),
+ u'btc_usd': Decimal('340.391'),
+ u'eur_rur': Decimal('58.11966'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.54'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.49'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.394'),
+ u'ltc_rur': Decimal('168.99517'),
+ u'ltc_usd': Decimal('3.559082'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70889'),
+ u'xpm_btc': Decimal('0.00042')}
+4.746178505
+104.750178505
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.79'),
+ u'btc_eur': Decimal('270.78789'),
+ u'btc_gbp': Decimal('224.28863'),
+ u'btc_rur': Decimal('15954.81572'),
+ u'btc_usd': Decimal('340.391'),
+ u'eur_rur': Decimal('58.12067'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.47'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.63'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.386'),
+ u'ltc_rur': Decimal('168.99507'),
+ u'ltc_usd': Decimal('3.55907'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.759'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70992'),
+ u'xpm_btc': Decimal('0.00042')}
+4.74420561355
+104.748205614
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.85'),
+ u'btc_eur': Decimal('270.79088'),
+ u'btc_gbp': Decimal('224.28909'),
+ u'btc_rur': Decimal('15955.13484'),
+ u'btc_usd': Decimal('340.391'),
+ u'eur_rur': Decimal('58.12268'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.45'),
+ u'ltc_eur': Decimal('2.816'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.05172'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.392'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.59'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.385'),
+ u'ltc_rur': Decimal('168.99505'),
+ u'ltc_usd': Decimal('3.559066'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70992'),
+ u'xpm_btc': Decimal('0.00042')}
+4.74124641571
+104.745246416
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.95'),
+ u'btc_eur': Decimal('270.79116'),
+ u'btc_gbp': Decimal('219.34255'),
+ u'btc_rur': Decimal('15955.45396'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12271'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.45'),
+ u'ltc_eur': Decimal('2.806'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.47'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.385'),
+ u'ltc_rur': Decimal('168.99491'),
+ u'ltc_usd': Decimal('3.559052'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70989'),
+ u'xpm_btc': Decimal('0.00042')}
+4.73877643071
+104.742776431
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2124.01'),
+ u'btc_eur': Decimal('270.79389'),
+ u'btc_gbp': Decimal('224.28978'),
+ u'btc_rur': Decimal('15955.61353'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12377'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.45'),
+ u'ltc_eur': Decimal('2.806'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.45'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.384'),
+ u'ltc_rur': Decimal('168.99489'),
+ u'ltc_usd': Decimal('3.55905'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.759'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.7098'),
+ u'xpm_btc': Decimal('0.00042')}
+4.73581760914
+104.739817609
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2124.11'),
+ u'btc_eur': Decimal('270.79445'),
+ u'btc_gbp': Decimal('224.29024'),
+ u'btc_rur': Decimal('15937.07503'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12479'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.53'),
+ u'ltc_eur': Decimal('2.808'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.44'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.384'),
+ u'ltc_rur': Decimal('168.99475'),
+ u'ltc_usd': Decimal('3.559046'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.759'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70992'),
+ u'xpm_btc': Decimal('0.00042')}
+4.73088661133
+104.734886611
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2124.25'),
+ u'btc_eur': Decimal('270.79987'),
+ u'btc_gbp': Decimal('224.2907'),
+ u'btc_rur': Decimal('15937.25745'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.1258'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.51'),
+ u'ltc_eur': Decimal('2.809'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.57'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.383'),
+ u'ltc_rur': Decimal('168.99471'),
+ u'ltc_usd': Decimal('3.559038'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70991'),
+ u'xpm_btc': Decimal('0.00042')}
+4.72398399435
+104.727983994
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2124.27'),
+ u'btc_eur': Decimal('270.80043'),
+ u'btc_gbp': Decimal('224.29093'),
+ u'btc_rur': Decimal('15937.5762'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12022'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.45'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.51'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.383'),
+ u'ltc_rur': Decimal('168.99469'),
+ u'ltc_usd': Decimal('3.55903'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.759'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70988'),
+ u'xpm_btc': Decimal('0.00042')}
+4.72299798048
+104.72699798
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2124.29'),
+ u'btc_eur': Decimal('270.80314'),
+ u'btc_gbp': Decimal('224.29116'),
+ u'btc_rur': Decimal('15937.59921'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12022'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.53'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.57'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99463'),
+ u'ltc_usd': Decimal('3.559006'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70984'),
+ u'xpm_btc': Decimal('0.00042')}
+4.72201198518
+104.726011985
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2124.37'),
+ u'btc_eur': Decimal('270.80342'),
+ u'btc_gbp': Decimal('224.29139'),
+ u'btc_rur': Decimal('15937.91798'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12022'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.54'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.47'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99453'),
+ u'ltc_usd': Decimal('3.55897'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.759'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.66719'),
+ u'xpm_btc': Decimal('0.00042')}
+4.71806818963
+104.72206819
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2124.41'),
+ u'btc_eur': Decimal('270.80587'),
+ u'btc_gbp': Decimal('219.34167'),
+ u'btc_rur': Decimal('15937.94101'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12123'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.45'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.43'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99439'),
+ u'ltc_usd': Decimal('3.558954'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.759'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.53924'),
+ u'xpm_btc': Decimal('0.00042')}
+4.71609640324
+104.720096403
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2124.43'),
+ u'btc_eur': Decimal('270.81157'),
+ u'btc_gbp': Decimal('219.34268'),
+ u'btc_rur': Decimal('15938.1004'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12123'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.45'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.63'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99437'),
+ u'ltc_usd': Decimal('3.558952'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.70992'),
+ u'xpm_btc': Decimal('0.00042')}
+4.71511053789
+104.719110538
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2124.49'),
+ u'btc_eur': Decimal('270.81185'),
+ u'btc_gbp': Decimal('224.29231'),
+ u'btc_rur': Decimal('15938.25983'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12223'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.45'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.42'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99431'),
+ u'ltc_usd': Decimal('3.558944'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.66716'),
+ u'xpm_btc': Decimal('0.00042')}
+4.7121530532
+104.716153053
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2124.53'),
+ u'btc_eur': Decimal('270.81456'),
+ u'btc_gbp': Decimal('224.29277'),
+ u'btc_rur': Decimal('15938.73805'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12022'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.49'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.41'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99375'),
+ u'ltc_usd': Decimal('3.558946'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.759'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.53888'),
+ u'xpm_btc': Decimal('0.00042')}
+4.71018148955
+104.71418149
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2124.55'),
+ u'btc_eur': Decimal('270.81755'),
+ u'btc_gbp': Decimal('224.293'),
+ u'btc_rur': Decimal('15939.21625'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12123'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.53'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.63'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99373'),
+ u'ltc_usd': Decimal('3.558946'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.70919573557
+104.713195736
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2124.62'),
+ u'btc_eur': Decimal('270.82054'),
+ u'btc_gbp': Decimal('224.29346'),
+ u'btc_rur': Decimal('15939.37567'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12022'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.54'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.62'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99359'),
+ u'ltc_usd': Decimal('3.558946'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.70574574277
+104.709745743
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2124.65'),
+ u'btc_eur': Decimal('270.82082'),
+ u'btc_gbp': Decimal('224.29392'),
+ u'btc_rur': Decimal('15939.5351'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12022'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.54'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.39'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99357'),
+ u'ltc_usd': Decimal('3.558946'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.70426724402
+104.708267244
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.52'),
+ u'btc_eur': Decimal('270.82381'),
+ u'btc_gbp': Decimal('224.29438'),
+ u'btc_rur': Decimal('15940.65104'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12022'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.45'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.6'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99343'),
+ u'ltc_usd': Decimal('3.558946'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.75998621157
+104.763986212
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.55'),
+ u'btc_eur': Decimal('270.82411'),
+ u'btc_gbp': Decimal('224.29461'),
+ u'btc_rur': Decimal('15940.81046'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12123'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.45'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.57'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99327'),
+ u'ltc_usd': Decimal('3.558946'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.75850618069
+104.762506181
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.63'),
+ u'btc_eur': Decimal('270.82708'),
+ u'btc_gbp': Decimal('224.29507'),
+ u'btc_rur': Decimal('15941.12932'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12224'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.53'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.49'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99319'),
+ u'ltc_usd': Decimal('3.558946'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.757'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.75455963609
+104.758559636
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.67'),
+ u'btc_eur': Decimal('270.83007'),
+ u'btc_gbp': Decimal('219.35869'),
+ u'btc_rur': Decimal('15941.28875'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12324'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.47'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.45'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99309'),
+ u'ltc_usd': Decimal('3.558946'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.757'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.7525864753
+104.756586475
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.71'),
+ u'btc_eur': Decimal('270.83306'),
+ u'btc_gbp': Decimal('219.34166'),
+ u'btc_rur': Decimal('15942.64817'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12426'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.54'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.41'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99301'),
+ u'ltc_usd': Decimal('3.558946'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.757'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.75061338883
+104.754613389
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2123.77'),
+ u'btc_eur': Decimal('270.83334'),
+ u'btc_gbp': Decimal('219.34167'),
+ u'btc_rur': Decimal('15942.80761'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12526'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.54'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.4'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99299'),
+ u'ltc_usd': Decimal('3.558946'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.757'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.74765389849
+104.751653898
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2124.25'),
+ u'btc_eur': Decimal('270.83633'),
+ u'btc_gbp': Decimal('224.29622'),
+ u'btc_rur': Decimal('15943.52937'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12528'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.45'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.57'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99285'),
+ u'ltc_usd': Decimal('3.558946'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.757'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.72398399435
+104.727983994
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2125.69'),
+ u'btc_eur': Decimal('270.83904'),
+ u'btc_gbp': Decimal('224.29645'),
+ u'btc_rur': Decimal('15945.69465'),
+ u'btc_usd': Decimal('340.395'),
+ u'eur_rur': Decimal('58.12021'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.45'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16100'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.55'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99283'),
+ u'ltc_usd': Decimal('3.558946'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.757'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.65303842047
+104.65703842
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2125.73'),
+ u'btc_eur': Decimal('270.84203'),
+ u'btc_gbp': Decimal('224.29668'),
+ u'btc_rur': Decimal('15951.78769'),
+ u'btc_usd': Decimal('340.391'),
+ u'eur_rur': Decimal('58.12729'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.47'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16099.985'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.41'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99269'),
+ u'ltc_usd': Decimal('3.558946'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.757'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.65106908215
+104.655069082
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2125.75'),
+ u'btc_eur': Decimal('270.84231'),
+ u'btc_gbp': Decimal('224.29691'),
+ u'btc_rur': Decimal('15951.94724'),
+ u'btc_usd': Decimal('340.391'),
+ u'eur_rur': Decimal('58.12022'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.53'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16099.985'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.48'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99268'),
+ u'ltc_usd': Decimal('3.558943'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.757'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.65008444079
+104.654084441
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2125.82'),
+ u'btc_eur': Decimal('270.84287'),
+ u'btc_gbp': Decimal('224.29737'),
+ u'btc_rur': Decimal('15953.06395'),
+ u'btc_usd': Decimal('340.39'),
+ u'eur_rur': Decimal('58.12022'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.47'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16099.985'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.45'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99253'),
+ u'ltc_usd': Decimal('3.55891'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.757'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.64663834191
+104.650638342
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2125.85'),
+ u'btc_eur': Decimal('270.84558'),
+ u'btc_gbp': Decimal('224.2976'),
+ u'btc_rur': Decimal('15954.34021'),
+ u'btc_usd': Decimal('340.39'),
+ u'eur_rur': Decimal('58.12224'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.47'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00101'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16099.985'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.44'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99252'),
+ u'ltc_usd': Decimal('3.55'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.757'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.64516151187
+104.649161512
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2125.91'),
+ u'btc_eur': Decimal('270.84586'),
+ u'btc_gbp': Decimal('219.34435'),
+ u'btc_rur': Decimal('15954.97845'),
+ u'btc_usd': Decimal('340.39'),
+ u'eur_rur': Decimal('58.12224'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.51'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00102'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16099.985'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.43'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99263'),
+ u'ltc_usd': Decimal('3.558907'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.759'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.64220797682
+104.646207977
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2125.97'),
+ u'btc_eur': Decimal('270.84857'),
+ u'btc_gbp': Decimal('224.29829'),
+ u'btc_rur': Decimal('15955.13802'),
+ u'btc_usd': Decimal('340.39'),
+ u'eur_rur': Decimal('58.12022'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.51'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00102'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16099.985'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.59'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99249'),
+ u'ltc_usd': Decimal('3.558902'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.63925460848
+104.643254608
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2126.07'),
+ u'btc_eur': Decimal('270.84913'),
+ u'btc_gbp': Decimal('224.29852'),
+ u'btc_rur': Decimal('15955.29762'),
+ u'btc_usd': Decimal('340.39'),
+ u'eur_rur': Decimal('58.12122'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.53'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00102'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16099.985'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.42'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99249'),
+ u'ltc_usd': Decimal('3.55'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.63433269836
+104.638332698
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2126.13'),
+ u'btc_eur': Decimal('270.84941'),
+ u'btc_gbp': Decimal('224.29875'),
+ u'btc_rur': Decimal('15955.77636'),
+ u'btc_usd': Decimal('340.39'),
+ u'eur_rur': Decimal('58.12123'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.53'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00102'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16099.985'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.41'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99248'),
+ u'ltc_usd': Decimal('3.558896'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.759'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.63137977452
+104.635379775
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2126.15'),
+ u'btc_eur': Decimal('270.85213'),
+ u'btc_gbp': Decimal('224.29921'),
+ u'btc_rur': Decimal('15955.77638'),
+ u'btc_usd': Decimal('340.39'),
+ u'eur_rur': Decimal('58.12022'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.45'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00102'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16099.985'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.57'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99241'),
+ u'ltc_usd': Decimal('3.558895'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.63039550361
+104.634395504
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
+{u'btc_cnh': Decimal('2126.19'),
+ u'btc_eur': Decimal('270.84942'),
+ u'btc_gbp': Decimal('224.29944'),
+ u'btc_rur': Decimal('15955.7764'),
+ u'btc_usd': Decimal('340.39'),
+ u'eur_rur': Decimal('58.12022'),
+ u'ftc_btc': Decimal('0.00007'),
+ u'gbp_usd': Decimal('1.4901'),
+ u'ltc_cnh': Decimal('22.54'),
+ u'ltc_eur': Decimal('2.814'),
+ u'ltc_gbp': Decimal('2.332'),
+ u'ltc_rur': Decimal('167.00102'),
+ u'ltc_usd': Decimal('3.54558'),
+ u'nmc_btc': Decimal('0.00252'),
+ u'nmc_usd': Decimal('0.866'),
+ u'nvc_btc': Decimal('0.00202'),
+ u'nvc_usd': Decimal('0.684'),
+ u'ppc_btc': Decimal('0.00221'),
+ u'ppc_usd': Decimal('0.75'),
+ u'trc_btc': Decimal('0.00007'),
+ u'usd_cnh': Decimal('6.3901'),
+ u'usd_rur': Decimal('47.10001'),
+ u'xpm_btc': Decimal('0.00041')}
+{u'btc_cnh': Decimal('2239.11'),
+ u'btc_eur': Decimal('273'),
+ u'btc_gbp': Decimal('226.7955'),
+ u'btc_rur': Decimal('16099.985'),
+ u'btc_usd': Decimal('340.4'),
+ u'eur_rur': Decimal('59.49537'),
+ u'ftc_btc': Decimal('0.00008'),
+ u'gbp_usd': Decimal('1.5198'),
+ u'ltc_cnh': Decimal('23.4'),
+ u'ltc_eur': Decimal('2.859'),
+ u'ltc_gbp': Decimal('2.381'),
+ u'ltc_rur': Decimal('168.99232'),
+ u'ltc_usd': Decimal('3.558892'),
+ u'nmc_btc': Decimal('0.00254'),
+ u'nmc_usd': Decimal('0.871'),
+ u'nvc_btc': Decimal('0.00204'),
+ u'nvc_usd': Decimal('0.697'),
+ u'ppc_btc': Decimal('0.00222'),
+ u'ppc_usd': Decimal('0.758'),
+ u'trc_btc': Decimal('0.00008'),
+ u'usd_cnh': Decimal('6.5355'),
+ u'usd_rur': Decimal('47.2886'),
+ u'xpm_btc': Decimal('0.00042')}
+4.62842701734
+104.632427017
+Checking...
+['usd', u'cnh', u'btc']
+Jump...
+usd_cnh
+Jump...
+cnh_btc
+Jump...
+_
