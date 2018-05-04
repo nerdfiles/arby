@@ -3,13 +3,14 @@ a way as to produce effects that are reflective of the gravitational signature
 at which there was some recording of photo-aspective imprint. 
 
 
-## Hypervisor
-
+★  Answer from https://stackoverflow.com/questions/38130453/difference-between-bare-metal-hypervisor-based-and-host-virtualization-types ★
 I've done some documentation. From multiple sources I've managed to gather the following information:
-
-
-
 1. Type I Hypervisor: Bare-metal virtualization hypervisors
+
+
+
+
+
 
 Is deployed as a bare-metal installation (the first thing to be installed on a server as the operating system will be the hypervisor).
 
@@ -26,10 +27,12 @@ Well suited for enterprise data centers, because it usually comes with advanced 
 Bare-metal virtualization hypervisors examples: VMware ESX and ESXi, Microsoft Hyper-V, Citrix Systems XenServer.
 
 
-
-
-
 2. Type II Hypervisor - Hosted virtualization hypervisors
+
+
+
+
+
 
 The software is not installed onto the bare-metal, but instead is loaded on top of an already live operating system, so it requires you to first install an OS(Host OS).
 
