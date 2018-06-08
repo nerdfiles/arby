@@ -24,6 +24,9 @@ import sys
 import time
 import datetime
 import json
+import sempai
+
+arbitrage_loop = str(sys.argv[2])
 
 # from graphviz import Source
 # from graphviz import Digraph
@@ -58,146 +61,20 @@ def loadCurrencies():
 
     '''
 
-    crypto_currencies = [
-                  'btc_usd',
-                  'btc_rur',
-                  'btc_eur',
-                  'ltc_btc',
-                  'ltc_usd',
-                  'ltc_rur',
-                  'ltc_eur',
-                  'ltc_cnh',
-                  'nmc_btc',
-                  'nmc_usd',
-                  'nvc_btc',
-                  'nvc_usd',
-                  'usd_rur',
-                  'eur_usd',
-                  'eur_rur',
-                  'dsh_btc',
-                  'ftc_usd',
-                  'ftc_btc',
-                  'ftc_cnh',
-                  'eth_cnh',
-                  'eth_btc',
-                  'eth_usd',
-                  'eth_ltc',
-                  'gnt_btc',
-                  'strat_btc',
-                  'eth_rur', ]
+    hodloo_currencies = sempai('./currencies.json').hodloo_currencies
 
-    hodloo_currencies = [
-                  'btc_usd',
-                  'ltc_btc',
-                  'ltc_usd',
-                  'eth_btc',
-                  'eth_zec',
-                  'eth_usd',
-                  'eth_ltc',
-                  'zec_ltc',
-                  'zec_usd',
-                  'zec_btc',
-                  'usdt_usd',
-                  'ppc_usd',
-                  'ppc_btc',
-    ]
+    pot = Dict()
 
-
-    noeuros_currencies = [
-                  'btc_usd',
-                  'ltc_btc',
-                  'ltc_usd',
-                  'nmc_btc',
-                  'nmc_usd',
-                  'nvc_btc',
-                  'nvc_usd',
-                  'dsh_btc',
-                  'dsh_usd',
-                  'dsh_ltc',
-                  'btc_xrp',
-                  'btc_emc',
-                  'btc_cad',
-                  'eth_btc',
-                  'eth_usd',
-                  'eth_ltc' ]
-
-    forex_currencies = [
-                  'btc_usd',
-                  'btc_rur',
-                  'btc_eur',
-                  'btc_cnh',
-                  'btc_gbp',
-                  'ltc_btc',
-                  'ltc_usd',
-                  'ltc_rur',
-                  'ltc_eur',
-                  'ltc_cnh',
-                  'ltc_gbp',
-                  'nmc_btc',
-                  'nmc_usd',
-                  'nvc_btc',
-                  'nvc_usd',
-                  'usd_rur',
-                  'usd_cnh',
-                  'gbp_usd',
-                  'trc_btc',
-                  'eur_usd',
-                  'eur_rur',
-                  'ftc_btc',
-                  'xpm_btc',
-                  'dsh_btc',
-                  'eth_btc',
-                  'eth_usd',
-                  'eth_ltc',
-                  'eth_rur', ]
-
-    eth_currencies = [
-                  'eth_btc',
-                  'eth_gbp',
-                  'eth_usd',
-                  'eth_eur',
-                  'eth_cnh',
-                  'eth_ltc',
-                  'eth_rur', ]
-
-    noeth_currencies = [
-                  'btc_usd',
-                  'btc_rur',
-                  'btc_eur',
-                  'btc_cnh',
-                  'btc_gbp',
-                  'ltc_btc',
-                  'ltc_usd',
-                  'ltc_rur',
-                  'ltc_eur',
-                  'ltc_cnh',
-                  'ltc_gbp',
-                  'nmc_btc',
-                  'nmc_usd',
-                  'nvc_btc',
-                  'nvc_usd',
-                  'usd_rur',
-                  'usd_cnh',
-                  'gbp_usd',
-                  'trc_btc',
-                  'eur_usd',
-                  'eur_rur',
-                  'ftc_btc',
-                  'xpm_btc',
-                  'dsh_btc', ]
-
-    # currencies = noeuros_currencies
-    # currencies = crypto_currencies
-    # currencies = noeth_currencies
-    # currencies = forex_currencies
-    # currencies = eth_currencies
-    # currencies = noeuros_currencies
+    if sys.argv[2]:
+      pot.hodloo = hogloo
+        pot[sys.argv[2]]
     currencies = hodloo_currencies
     currencies_list = '-'.join(currencies)
     return currencies_list
 
 
 def generateContext(currencies_list=None):
+
     '''
     Generate Context
 
@@ -208,7 +85,6 @@ def generateContext(currencies_list=None):
     currencies_list = loadCurrencies()
     api = btcelib.PublicAPIv3(currencies_list)
     return api
-
 
 def generateContextCalls(api=None):
     '''
