@@ -24,9 +24,9 @@ import sys
 import time
 import datetime
 import json
-import sempai
-
-arbitrage_loop = str(sys.argv[2])
+from jsonsempai import magic
+import currencies
+from currencies import hodloo_currencies
 
 # from graphviz import Source
 # from graphviz import Digraph
@@ -61,13 +61,6 @@ def loadCurrencies():
 
     '''
 
-    hodloo_currencies = sempai('./currencies.json').hodloo_currencies
-
-    pot = Dict()
-
-    if sys.argv[2]:
-      pot.hodloo = hogloo
-        pot[sys.argv[2]]
     currencies = hodloo_currencies
     currencies_list = '-'.join(currencies)
     return currencies_list
