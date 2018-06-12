@@ -25,8 +25,12 @@ import time
 import datetime
 import json
 from jsonsempai import magic
-import currencies
 from currencies import hodloo_currencies
+from currencies import forex_currencies
+from currencies import noeuros_currencies
+from currencies import crypto_currencies
+from currencies import noeth_currencies
+from currencies import eth_currencies
 
 # from graphviz import Source
 # from graphviz import Digraph
@@ -52,6 +56,28 @@ keys = {
 
 G = nx.DiGraph()
 
+def namer():
+    '''
+    @description
+    Pick a portfolio
+    '''
+
+    sel = str(sys.argv[2])
+
+    if sel == 'hodloo_currencies':
+        c = hodloo_currencies
+    elif sel == 'forex_currencies':
+        c = forex_currencies
+    elif sel == 'noeuros_currencies':
+        c = noeuros_currencies
+    elif sel == 'crypto_currencies':
+        c = crypto_currencies
+    elif sel == 'noeth_currencies':
+        c = noeth_currencies
+    elif sel == 'eth_currencies':
+        c = eth_currencies
+
+    return c
 
 def loadCurrencies():
     '''
@@ -61,7 +87,7 @@ def loadCurrencies():
 
     '''
 
-    currencies = hodloo_currencies
+    currencies = namer()
     currencies_list = '-'.join(currencies)
     return currencies_list
 
